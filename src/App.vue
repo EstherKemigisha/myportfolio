@@ -141,10 +141,13 @@
           </div>
           
           <div class="project-card animate-on-scroll">
-            <img src="/images/Grocery.png" alt="KGL Inventory" class="project-img">
+            <a href="https://karibu-7r7t.onrender.com/" target="_blank" rel="noopener noreferrer">
+              <img src="/images/Grocery.png" alt="KGL Inventory" class="project-img">
+            </a>
             <div class="project-content">
               <h3 class="project-title">KGL-Inventory Management System</h3>
               <p>Full-stack web application for managing procurement, sales, and credit operations in wholesale produce business.</p>
+              <a href="https://karibu-7r7t.onrender.com/" target="_blank" rel="noopener noreferrer" class="project-link">View Live →</a>
             </div>
           </div>
           
