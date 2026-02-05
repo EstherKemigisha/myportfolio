@@ -162,7 +162,6 @@
       </div>
     </section>
 
-    <!-- Contact Section -->
     <section id="contact" class="section animate-on-scroll">
       <div class="container">
         <h2 class="section-title animate-on-scroll">Hire Me</h2>
