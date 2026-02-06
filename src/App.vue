@@ -40,9 +40,8 @@
               <a href="https://wa.me/257788345329" class="header-social-link" target="_blank" rel="noopener noreferrer">
                 <i class="fab fa-whatsapp"></i>
               </a>
+              <a href="#contact" class="get-in-touch-btn">Get In Touch</a>
             </div>
-            
-            <a href="#contact" class="get-in-touch-btn">Get In Touch</a>
           </div>
         </div>
       </div>
