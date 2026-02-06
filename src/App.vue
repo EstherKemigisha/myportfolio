@@ -25,8 +25,24 @@
             <div class="summary-text">
               <p>Passionate Software Developer creating intuitive user interfaces .</p>
               <p>Building scalable full-stack applications that deliver seamless user experiences, driven by clean UI and performance optimization.</p>
-             
             </div>
+            
+            <div class="header-social-links">
+              <a href="mailto:estarkemi@gmail.com" class="header-social-link" target="_blank">
+                <i class="fas fa-envelope"></i>
+              </a>
+              <a href="https://github.com/EstherKemigisha" class="header-social-link" target="_blank" rel="noopener noreferrer">
+                <i class="fab fa-github"></i>
+              </a>
+              <a href="https://www.linkedin.com/in/esther-kemigisha/" class="header-social-link" target="_blank" rel="noopener noreferrer">
+                <i class="fab fa-linkedin-in"></i>
+              </a>
+              <a href="https://wa.me/257788345329" class="header-social-link" target="_blank" rel="noopener noreferrer">
+                <i class="fab fa-whatsapp"></i>
+              </a>
+            </div>
+            
+            <a href="#contact" class="get-in-touch-btn">Get In Touch</a>
           </div>
         </div>
       </div>
@@ -45,21 +61,6 @@
               <li>Seamlessly integrating visuals with frontend code for polished, brand-consistent results</li>
             </ul>
             <p>Combining frontend development and my backend ensures my applications are both visually striking and highly functional.</p>
-            
-            <div class="about-social-links animate-on-scroll">
-              <a href="mailto:estarkemi@gmail.com" class="about-social-link" target="_blank">
-                <i class="fas fa-envelope"></i>
-              </a>
-              <a href="https://github.com/EstherKemigisha" class="about-social-link" target="_blank" rel="noopener noreferrer">
-                <i class="fab fa-github"></i>
-              </a>
-              <a href="https://www.linkedin.com/in/esther-kemigisha/" class="about-social-link" target="_blank" rel="noopener noreferrer">
-                <i class="fab fa-linkedin-in"></i>
-              </a>
-              <a href="https://wa.me/257788345329" class="about-social-link" target="_blank" rel="noopener noreferrer">
-                <i class="fab fa-whatsapp"></i>
-              </a>
-            </div>
           </div>
           <img src="/images/star.jpg" alt="Esther Kemigisha" class="about-img">
         </div>

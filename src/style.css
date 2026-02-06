@@ -274,6 +274,52 @@ body::after {
   margin-bottom: 0.8rem;
 }
 
+.header-social-links {
+  display: flex;
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.header-social-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  background: transparent;
+  color: var(--primary-green);
+  border-radius: 50%;
+  font-size: 1.5rem;
+  transition: all 0.3s ease;
+  border: 2px solid var(--primary-green);
+}
+
+.header-social-link:hover {
+  background: var(--primary-green);
+  color: white;
+  transform: scale(1.2);
+  box-shadow: 0 0 20px var(--primary-green);
+}
+
+.get-in-touch-btn {
+  display: inline-block;
+  padding: 1rem 2.5rem;
+  background: var(--primary-green);
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 500;
+  font-size: 1.1rem;
+  transition: all 0.3s ease;
+  margin-top: 1rem;
+}
+
+.get-in-touch-btn:hover {
+  background: #0a9e0a;
+  transform: translateY(-3px);
+  box-shadow: 0 5px 20px rgba(14, 228, 14, 0.4);
+}
+
 /* Sections */
 .section {
   padding: 4rem 0;
@@ -656,6 +702,14 @@ body::after {
 
   .header-text {
     text-align: center;
+  }
+
+  .header-social-links {
+    justify-content: center;
+  }
+
+  .get-in-touch-btn {
+    display: inline-block;
   }
 
   .header h1 {
